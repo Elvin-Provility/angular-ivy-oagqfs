@@ -1,3 +1,3 @@
-# angular-ivy-oagqfs
+# angular-cal-app
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-oagqfs)
